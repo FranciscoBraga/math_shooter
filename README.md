@@ -2,8 +2,8 @@
 
 ## Descrição do Sistema:
 
-**Objetivo**: O objetivo do jogo Math Shooter é ajudar os jogadores a desenvolver suas habilidades matemáticas de forma divertida e envolvente.
-**Mecânica**: O jogador controla um personagem que precisa atirar nos inimigos. Para fazer isso, o jogador precisa responder corretamente a uma pergunta matemática que aparece na tela. As perguntas podem ser de soma, subtração, multiplicação ou divisão.
+**Objetivo**: O objetivo do jogo Math Shooter é ajudar os jogadores a desenvolver suas habilidades matemáticas de forma divertida e envolvente.\
+**Mecânica**: O jogador controla um personagem que precisa atirar nos inimigos. Para fazer isso, o jogador precisa responder corretamente a uma pergunta matemática que aparece na tela. As perguntas podem ser de soma, subtração, multiplicação ou divisão.\
 **Níveis**: O jogo possui seis níveis de dificuldade:
 Muito Fácil: 60 segundos para responder, escolha de operador, números até 999 , dois  de conta níveis.
 Fácil: 50 segundos para responder, escolha de até dois operadores, números até 9999 , três níveis.
